@@ -11,7 +11,7 @@ Support and general talk about Spirit of Grit resides on iAmMe's Discord:
 
 If you'd like to support my work, you can find my ko-fi page here : 
 
-[![KofiButton](img/DiscordButton.png)](https://ko-fi.com/aelove)
+[![KofiButton](img/KofiButton.png)](https://ko-fi.com/aelove)
 
 
 # What is Spirit of Grit ?
