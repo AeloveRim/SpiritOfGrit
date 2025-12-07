@@ -9,6 +9,11 @@ Support and general talk about Spirit of Grit resides on iAmMe's Discord:
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/iammodlist)
 
+If you'd like to support my work, you can find my ko-fi page here : 
+
+[![KofiButton](img/DiscordButton.png)](https://ko-fi.com/aelove)
+
+
 # What is Spirit of Grit ?
 Spirit of Grit is a "hardcore-lite" modlist, providing increased challenge without going too far into tediousness. Gold is precious, character progression is slower, specialization is vital and magic is not a given. Many mod-added gameplay mechanics have been worked into character progression and can be unlocked through skills and custom perks.
 
