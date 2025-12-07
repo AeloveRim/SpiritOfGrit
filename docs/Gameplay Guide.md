@@ -63,7 +63,7 @@ As you play, keep raising your magic skills to gain more school theses and learn
 
 The following mods are particularly relevant for mage gameplay :
 - [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) reworks the vanilla spells.
-- The [Apocalyse](https://www.nexusmods.com/skyrimspecialedition/mods/1090) adds a lot of new spells and [Balance adjustments for Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/104987) keeps them sane.
+- [Apocalyse](https://www.nexusmods.com/skyrimspecialedition/mods/1090) adds a lot of new spells and [Balance adjustments for Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/104987) keeps them sane.
 - [Abyss](https://www.nexusmods.com/skyrimspecialedition/mods/83329) and [Arcane](https://www.nexusmods.com/skyrimspecialedition/mods/91602) spell mods from Darenii
 - [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) rebalances enchanted items
 - The [Spellsiphon](https://www.nexusmods.com/skyrimspecialedition/mods/26627) magic system is available, but not immediately. To unlock it, use the Arcane Manual in your inventory, you will need at least 25 Restoration and either 20 Destruction or 20 Conjuration.
@@ -212,6 +212,7 @@ Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or dr
 - Don't try to tank dragon breath unless you have a lot of health and resistances. You can of course hide behind an obstacle when the dragon is about to breathe, but there are also a lot of other ways to deal with dragon breath. For example, a mage can block dragon breath with even the weakest ward. A warrior could block it with the Whirlwind Shield block perk. A skilled thief could avoid it with the Dodge Roll sneak perk.
 
 - Dragons take less damage from opponents that aren't you. As such, summons and hirelings are less effective against them.
+
 
 
 
