@@ -9,11 +9,10 @@ Support and general talk about Spirit of Grit resides on iAmMe's Discord:
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/iammodlist)
 
-# What is Tahrovin Grit ?
+# What is Spirit of Grit ?
 Spirit of Grit is a "hardcore-lite" modlist, providing increased challenge without going too far into tediousness. Gold is precious, character progression is slower, specialization is vital and magic is not a given. Many mod-added gameplay mechanics have been worked into character progression and can be unlocked through skills and custom perks.
-As a SFW fork of Tahrovin Grit, the modlist also overhauls visuals and includes a lot of new quests, all of them fully tested and patched, bringing many hours of new content."
 
-Tahrovin Grit is a fork of Tahrovin, a NSFW Skyrim VR modlist. It retains some of the eye-candy its predecessor is known for, but opts for more grounded outfits and slightly less intrusive NSFW mods. It also features light survival gameplay and aims towards a slower-paced character growth, reworking many gameplay mechanics to provide a well-balanced challenge throughout your playthrough.
+As a SFW fork of Tahrovin Grit, the modlist also overhauls visuals and includes a lot of new quests, all of them fully tested and patched, bringing many hours of new content."
 
 # Before You Start
 Before you dive in, there's a couple things you need to be sure of first:
