@@ -106,9 +106,6 @@ Almost there but we're not out of the woods yet! After Wabbajack has given you t
 Spirit of Grit utilises the stock game feature offered by Wabbajack, meaning that Wabbajack will make a local copy of your Skyrim VR game files during the installation process. This means that your Steam installation of Skyrim VR is completely untouched, even by files that go in the game folder such as ENB files.
 
 ## Selecting a profile
-<img width="280" height="116" alt="image" src="https://github.com/user-attachments/assets/f1c2134e-0a76-43d0-a61d-2e4420c275c7" />
-
-
 Before you go any further, you should select a profile. The differences are as follows : 
 - Spirit of Grit : The main profile, uses a lightweight ENB and puredark's VR Upscaler.
 - Spirit of Grit CS : Uses Community Shaders. More resource-hungry than the other profiles.
@@ -200,6 +197,7 @@ For Spirit of Grit, updates that change only the last digit of the version numbe
 
 # Uninstalling SoG
 No fancy uninstallation needed, you can just delete the SoG folder and it'll be gone. There'll be no files left inside your Steam installation folder because SoG uses the stock game feature of Wabbajack.
+
 
 
 
