@@ -112,7 +112,6 @@ Tahrovin utilises the stock game feature offered by Wabbajack, meaning that Wabb
 Before you go any further, you should select a profile. The differences are as follows : 
 - Tahrovin Grit : The main profile, uses a lightweight ENB and puredark's VR Upscaler.
 - Tahrovin Grit CS : Uses Community Shaders. More resource-hungry than the other profiles.
-- Tahrovin Grit Extra Quests : An ENB-based profile with a lot of extra quests that have not necessarily been tested. See [here](Gameplay%20Guide.html#the-extra-quests-profile) for details.
 - Tahrovin Grit Performance: Not as pretty as the other profiles, but takes a lot less resources.
 
 ## Community Shaders
@@ -201,6 +200,7 @@ For Tahrovin Grit, updates that change only the last digit of the version number
 
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
+
 
 
 
