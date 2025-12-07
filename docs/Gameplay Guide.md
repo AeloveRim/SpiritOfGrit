@@ -36,35 +36,13 @@ A Handicap is a very severe penalty, so make sure to only use them with skills y
 
 Once you teleport at one of the crystals, you'll be dumped into Skyrim in the place you chose. Make your choices wisely though - once you leave, you cannot return.
 
-## CBPC VRSex
-[CBPC VRSex](https://www.loverslab.com/files/file/29662-cbpc-vrsex/) is a mod to create basic sex interactions without taking control away from the player. ~~It requires the player to have a penis. If you are playing a non-futa female, you may use the "Auto-futa" option in the MCM to temporarily grow a penis during VRSex scenes.~~ Penis not required anymore, vagina on vagina collision works fine now. Though you can still use Auto-futa if you'd like.
-
-If you wish to use that system, read the manual in your inventory or on the stand next to the "VRSex Training Dummy" NPC in the Realm of Lorkhan. Feel free to try out the mod on that Training Dummy to figure out how things work.
-
-Upon opening the manual, you will be asked for an orientation which will activate the mod for either Male NPCs, Female NPCs, or both. If you choose Male or Female NPCs, entering an ostim or sexlab sex scene with the gender you didn't choose will also give you a temporary 'disgust' debuff. If you choose both, you will never get a debuff but some VRSex buffs will be harder to obtain.
-
-To start, I recommend activating the Incubus Arts power then groping the VRSex dummy until she collapses. You can either keep groping her while she's collapsed, or use the Molag Bal's Compulsion spell to force her to take a pose. There are only two poses at the moment, chosen at random. Just cast Molag Bal's Compulsion spell again to switch. Either way, if you keep groping her, your character should strip and get an erection. The mod will then detect collision between penis and vagina, so set yourself in the right position and start having sex. After a little while, you will receive bonuses depending on the level of your partner. If your partner is lower level than you are, this will likely only be a temporary stat boost, but a higher level partner may grant you a permanent point of health or magicka. Details on these bonuses are described in the VRSex Manual.
-
-You can technically also use the Knockout Arts power instead of Incubus Arts, but a starting character will find it extremely hard to use. The knockout combo will only activate if you have 90 stamina. As parrying uses up your stamina, you will often find yourself parrying an enemy attack and ruining the combo. Before you start using Knockout Arts instead of Incubus Arts, either increase your warrior skills to learn Improved Knockout Arts or increase your stamina.
-
-The third option, Molag Bal's Subjugation, is easier to use than both Incubus Arts and Knockout Arts but is entirely unavailable as a starting character and requires investing into Illusion.
-
-## Sexlab and Ostim
-Sexlab scenes are used in this list mostly in three situations : You are defeated by an enemy, you use Sexlab Enchantress spells, or you start a scene from Sexlab Solutions.
-Sexlab scenes can be directed through gestures, similarly to vrik gestures, though if nothing is done they will complete automatically.
-
-Ostim scenes are started by most of the other mods, such as the Romance mod, the follower mods or Amorous Adventures. 
-Ostim scenes can be directed by using the Spell Wheel.
-
-As long as there is penetration, you will still receive the bonuses from CBPC VRSex during Sexlab or Ostim scenes.
-
 ## Playing a mage
 Being able to use magic is not a given in Tahrovin Grit and will require an investment. Your magicka regeneration in combat is faster, but your starting magicka is only 50 and you do not start with any spells (other than the various debug spells) unless you are one of the races granted a bonus spell (Breton, Dunmer, Altmer). Furthermore, you will find that spell books are prohibitively expensive for a starting character. You will still find spell books in the world as usual, but it may be tempting to sell them instead of learning the spell they contain.
 
 Rather than spell books, your main way to acquire new spells will be through Spell Forging.
 
 If you want to start the game as a mage right away, I recommend doing the following : 
-- Increase your magicka by picking the Mage, Lady or Atronach standing stones, otherwise you'll lack the magicka to even forge novice spells at first. As a more temporary measure, Julianos' shrine can also help. Note that Altmer already start with an extra 50 magicka and may not necessarily need to do that.
+- Increase your magicka by picking the Mage, Lady or Atronach standing stones, otherwise you'll lack the magicka to even forge novice spells at first. As a more temporary measure, Julianos' shrine can also help. Note that Altmer and Imperials already start with extra magicka and may not necessarily need to do that.
 - Increase one of your magic skills to at least 20 at Sera the Trainer if possible. You should have enough gold and TP to raise a skill to 20 right away. This will allow you to learn a novice spell through Spellforge immediately.
 
 Cast the "Conjure Spellforge" spell on the ground to summon the forge and select the bottom node to access the forge's main functions. Select the Resin Experimentation option.
@@ -83,24 +61,21 @@ You will automatically equip an "enkindle" ability that you can channel to drain
 
 As you play, keep raising your magic skills to gain more school theses and learn more spells. You can also create Arcane Resin by experimenting with ingredients in the spellforge, which will work the same as School Theses but allow you to learn spells from any school. Read the spellforge mod description (https://www.nexusmods.com/skyrimspecialedition/mods/46482) for more details. Creating Arcane Resin through Spellforge usually requires powerful ingredients such as Nirnroot. However, some recipes work with large quantities of mundane ingredients (such as 10 units of Bone Meals). If you try to experiment with the wrong quantities, you will still learn the recipe for later, with the exact quantity needed. If you have a decently valuable alchemy ingredient, try to throw it in the Spellforge and see what happens !
 
-
-Other changes compared to base Tahrovin : 
-- Triumvirate has been removed
-- [Balance adjustments for Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/104987) deals with the worst offenders, such as turning Ocato's Recital into a series of perks or switching Ghostwalk from a novice to an expert spell.
-- Two Darenii spell packs have been added, [Abyss](https://www.nexusmods.com/skyrimspecialedition/mods/83329) and [Arcane](https://www.nexusmods.com/skyrimspecialedition/mods/91602).
+The following mods are particularly relevant for mage gameplay :
+- [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) reworks the vanilla spells.
+- The [Apocalyse](https://www.nexusmods.com/skyrimspecialedition/mods/1090) adds a lot of new spells and [Balance adjustments for Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/104987) keeps them sane.
+- [Abyss](https://www.nexusmods.com/skyrimspecialedition/mods/83329) and [Arcane](https://www.nexusmods.com/skyrimspecialedition/mods/91602) spell mods from Darenii
 - [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) rebalances enchanted items
-- [Sexlab Enchantress](https://www.loverslab.com/files/file/9712-sexlab-enchantress-se) provides sexlab-related versions of the basic illusion spells. These spells do not replace the actual basic illusion spells here, there will usually be a regular version and an erotic version of the spell that can be learned separately.  
 - The [Spellsiphon](https://www.nexusmods.com/skyrimspecialedition/mods/26627) magic system is available, but not immediately. To unlock it, use the Arcane Manual in your inventory, you will need at least 25 Restoration and either 20 Destruction or 20 Conjuration.
 - The [Conduit](https://www.nexusmods.com/skyrimspecialedition/mods/158538) magic system is similarly locked and requires 15 Enchanting, 20 One-handed and 25 in any spellcasting skill to unlock.
 - Various other small additions : [Immersive Bend Will](https://www.nexusmods.com/skyrimspecialedition/mods/62233), [Perception](https://www.nexusmods.com/skyrimspecialedition/mods/7559), [NPCs react to Necromancy](https://www.nexusmods.com/skyrimspecialedition/mods/70428)[/Invisibility](https://www.nexusmods.com/skyrimspecialedition/mods/91480).
-- Sexlab Eager NPCs has been removed, and [Sexlab Romance](https://www.loverslab.com/topic/127240-sexlab-romance-se/) has been added.
 
 ## Playing a warrior
 The main change you will notice as a warrior is that vanilla weapon blocking has been removed entirely in favor of [Pseudo Physical Weapon Collision and Parry](https://www.nexusmods.com/skyrimspecialedition/mods/100781). By default, blocking with a shield still works as normal - hold it in front of you to block. However weapons no longer block at all, they can only use the Pseudo-physical parry system by intercepting the enemy's attack. By moving the weapon fast enough as you parry or block, you may even stagger the enemy. Blocking or parrying will cost Stamina instead of Health. Parrying with a weapon will cost stamina if you are slow, but if you move the weapon fast enough you will regain Stamina instead of losing it. If you are out of Stamina, weapon parrying becomes impossible and shield blocking starts to use Health instead.
 
 You will also be able to block and parry arrows and spell projectiles by intercepting them physically. While holding trigger, projectiles will be slowed at the cost of a bit of magicka, making that process easier.
 
-The settings for pseudo-physical parry are less forgiving than the ones in base Tahrovin. You will not be able to parry by simply standing still, make sure to move your weapon as you intercept.
+You will not be able to parry by simply standing still, make sure to move your weapon as you intercept.
 
 You can throw humanoid enemies either by yanking them with both hands, or by yanking their foot. This requires a fair amount of stamina, but not only will it make the enemy vulnerable, if they have 50% health or less it will also give you a brief window while they are down during which you will be able to strip them of their weapon and/or armor, by either grabbing them with both hands or using the gravity glove. Some of the new perks in Light and Heavy armor will make you better at throwing enemies around.
 
@@ -170,7 +145,7 @@ New random overworld encounters have been added through [Extended Encounters](ht
 [Dragon Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/56082) makes dragons smarter and grants them powerful new abilities. Their attacks are also generally stronger, and they have extra resistance to attacks that do not come directly from you.
 
 ## Death
-[Shadow of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/65136) means death is not the end. Upon defeat, you will generally be assaulted by the victor in a Sexlab Scene. In most cases they will become your Nemesis and grow in power. Meanwhile, you will receive a penalty : either (100*your level) in gold, or a dragon soul if you don't have the gold, or one or more permanent points of health (depending on your level) if you don't have the soul either (note that you will be able to regain permanent health points through CBPC VRSex). You will also receive a situational or random debuff and lose some experience.
+[Shadow of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/65136) means death is not the end. In most cases, upon defeat the victor will become your Nemesis and grow in power. Meanwhile, you will receive a penalty : either (100*your level) in gold, or a dragon soul if you don't have the gold, or one or more permanent points of health (depending on your level) if you don't have the soul either. You will also receive a situational or random debuff and lose some experience.
 
 It's not all bad however - going back and defeating your Nemesis will not only grant you more experience than you'd initially lost, but it will also transform that debuff into a related permanent buff, up to a total maximum of 5 buffs and debuffs from this mod.
 
@@ -189,14 +164,14 @@ While followers may be a powerful asset, having too many of them may be detrimen
 
 The Leadership speech perk will allow you to bring more followers without a penalty.
 
-Daegon has been removed but new followers have been added : [Misty Skye](https://www.nexusmods.com/skyrimspecialedition/mods/16374), [M'rissi](https://www.nexusmods.com/skyrimspecialedition/mods/9666), [Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874) and [Xelzaz](https://www.nexusmods.com/skyrimspecialedition/mods/62893).
+Many new mod-added followers are available : [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278), [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035), [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461), [M'rissi](https://www.nexusmods.com/skyrimspecialedition/mods/9666), [Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874), [Xelzaz](https://www.nexusmods.com/skyrimspecialedition/mods/62893) and many followers from [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194).
 
 ## Quests
 The main quest has been delayed so that after completing Bleak Falls Barrow you will need to wait a few days and be at least level 7 before you are asked to deal with the first dragon at the watchtower. The reason for this is that this unlocks dragons, and you would *not* want to fight a dragon at level 1 in this list. On the other hand, even if you choose not to go through with the main quest at all, dragons will still start appearing in the world starting at level 10.
 
 Delaying the main quest doesn't mean Alduin will stay put forever either. After 90 days, if you haven't finished the main quest, Alduin will come seeking to destroy you. This will be an easier fight than the actual, full-powered Alduin you will have to fight in the main quest, but you should still make sure you have grown strong enough to fend him off. Once you do, you will have 20 more days before he seeks you out again. Take care and don't slack off on your training : every time he comes back, Alduin will be even more powerful !
 
-Besides that, a few quests have been added : [Amorous Adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) (with the player text revision), [The forgotten city](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [The chain of time](https://www.nexusmods.com/skyrimspecialedition/mods/95062), [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120), [Fortune's Tradehouse](https://www.nexusmods.com/skyrimspecialedition/mods/22755), [The shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167), [Meridia's Order](https://www.nexusmods.com/skyrimspecialedition/mods/102584), [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634), [DAc0da](https://www.nexusmods.com/skyrimspecialedition/mods/134405), [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/141327), [The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748), [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494), [Hel Rising](https://www.loverslab.com/topic/173622-hel-rising-norse-dungeon-quest-and-follower-mod-se), and many of [jayserpa's vanilla quest expansions](https://www.nexusmods.com/skyrimspecialedition/users/5201727) have been integrated.
+Besides that, a few quests have been added : [The forgotten city](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [The chain of time](https://www.nexusmods.com/skyrimspecialedition/mods/95062), [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120), [Fortune's Tradehouse](https://www.nexusmods.com/skyrimspecialedition/mods/22755), [The shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167), [Meridia's Order](https://www.nexusmods.com/skyrimspecialedition/mods/102584), [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634), [DAc0da](https://www.nexusmods.com/skyrimspecialedition/mods/134405), [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/141327), [The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748), [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494), [Hel Rising](https://www.loverslab.com/topic/173622-hel-rising-norse-dungeon-quest-and-follower-mod-se), and many of [jayserpa's vanilla quest expansions](https://www.nexusmods.com/skyrimspecialedition/users/5201727) have been integrated.
 
 ## Vampires and Werewolves
 [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408) is the Vampire overhaul. [Nightmare Night](https://www.nexusmods.com/skyrimspecialedition/mods/60751) is the werewolf overhaul.
@@ -223,12 +198,6 @@ Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or dr
 
 - You can open a container normally instead of using Quickloot by keeping the interact button pressed for a second or two.
 
-- CBPC VRSex grants a number of bonuses if you have sex with a higher level character than you, including a permanent point of health or magicka. If you spot a strong enemy and you're not in refractory cooldown, try to take her down nonlethally if you can !
-
-- You will find a bunch of extra options for lingerie, skimpy clothing and accessories available for crafting at the tanning rack. If you'd rather not have to deal with all that, you can just remove the Tahrovin Lingerie Book from your inventory. If you've lost the book, you can just craft it again at a tanning rack.
-
-- Sexlab Romance grants you an experience buff on a successful attempt, which can be useful before a training session. It takes many factors into account to calculate whether the target is receptive to your advances : Your speechcraft skill, your relationship with the seduction target, your faction, the target's natural proclitivites, and so on. Notably, cold approaching someone you don't have at least a friendly relationship with is much more likely to fail. Accomplishing a quest for an NPC will often set their disposition to friendly - you'll be able to tell as their greetings change. Of course, if your speechcraft is high enough or there are enough other factors in play, you may not need to bother making friends first. If they turn you down, you can still keep trying again the next day (with worse odds of success).
-
 - When trading, consider which merchants to buy from and sell to.
   - Specialists (blacksmiths, alchemists, court mages) will have better prices than generalist shops. Fences (which includes Khajiit caravans) are particularly expensive.
   - Merchants will offer you discounts if you belong to the same guild, and further discounts if you are guild leader. You will also receive another discount if you are Thane of the city.
@@ -245,17 +214,6 @@ Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or dr
 - Dragons take less damage from opponents that aren't you. As such, summons and hirelings are less effective against them.
 
 ## The Extra Quests Profile
-When I play Skyrim, I usually like to load it up with a bunch of quests I haven't played before. When my playthrough is done, I'll remove the ones I stumbled upon and add a bunch of new ones for the next playthrough.
-
-Since I'm going to do that for myself anyway, I figured I might as well leave it in for the people who want a lot more quests around ! While I have personally played through all the modded quests in the main profile to ensure they work well and fit the Grit vision, the extra quests profile is completely untested. I can't guarantee the extra quests are good, fit in well, or even if they work fine in VR. It *should* be okay, and I will have done as much patching and research as possible without actually playing through the quests, but who knows !
-
-Safe to say, **only select the Extra Quests profile if you don't mind some potential jank** ! If something doesn't work with this profile, get back to me on Discord and I'll see if I can make a patch.
-
-As I play through more quests, some will eventually be switched from the Extra Quests profile to the main Grit profile and others will likely be added.
-
-
-
-
 
 
 
