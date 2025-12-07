@@ -155,15 +155,10 @@ Before starting, you can make choices in the Optional sections of the list, colo
 
 - Vanilla Start : New games will start with the vanilla skyrim intro instead od throwing you straight into the Realm of Lorkhan
 - Quickloot VR : Adds a looting menu similar to the one present in FO4
-- NPC Underwear Distribution : Adds underwear to bodies when you loot them
 - Dragonborn speaks naturally : Grants the ability to use voice commands to do things such as equip spells and items, shout, or select dialogue options. Requires Windows speech recognition.
 - Occlusion FPS Boost : Should give you an FPS boost when outside, at the cost of some rare flickering in specific places (detected on some setups in the Windhelm bridge and on the College's bridge)
--  Daedric Bitchs : Optional followers 
 -  Strafing Nerf : Reduces your speed when going backwards or strafing to the side, making it a bit harder to avoid attacks and run circles around your enemies
 -  Subtitles VR : Allows you to have multiple subtitles displayed at once. Can get a bit janky, but useful when you have a lot of followers.
-- Shadow of Skyrim - SL on defeat : Defeat system. Starts a sexlab scene whenever you are defeated by an enemy. It is integrated into the Shadow of Skyrim Nemesis system, but there's no configuration available to customize it. **Disable this if you don't want to get a forced sex scene on defeat.**
-- Yamete Redux : Alternative defeat system. It will require manual MCM configuration and is known to be finnicky.
-- CBPC VRSex - Sexlab Solutions Override : Will use the CBPC VRSex system instead of Sexlab to handle any sex interactions started by the Sexlab Solutions mod between the player and a female NPC, as long as the player is not in a victim context.
 
 ### Block and parry settings
 Pick only one of the options given.
@@ -191,19 +186,9 @@ The MCM setup is *mostly* automated and will run on its own after you've finishe
 
 When you are done, **save your game, go back to the main menu, then load that save** so the last few mods can load properly.
 
-If you are playing with the Vanilla Start option, the mods will initialize while the intro plays. If your machine is on the weaker side there might be freezing at one point while the animations are initialized - just wait it out. Make sure to **save, go back to the main menu, then load** in the Helgen Keep, after Ralof or Hadvar cut your bonds and free you, so the last few mods can load properly.
+If you are playing with the Vanilla Start option, the mods will initialize while the intro plays. Make sure to **save, go back to the main menu, then load** in the Helgen Keep, after Ralof or Hadvar cut your bonds and free you, so the last few mods can load properly.
 
 Modifying the CBBE 3BA and/or HIMBO morphs in the racemenu during character creation is not recommended. Instead, after reloading your game, you should use the autobody shortcut (right thumbstick + controller down) to select a body preset for your character.
-
-That done, there are optional configuration changes you may wish to make in the Mod Configuration Menu :
-
-- The CBPC VRSex mod will create basic sex interactions with NPCs without taking control of the player, but requires the player to have a penis. If you wish to use it but are playing a female character, the mod can let your character grow a penis temporarily during VRSex scenes. Go to CBPC VRsex and check the "Auto-futa" option. Don't check the option if you are playing a male character, or a female character that is already permanently futa. *(Edit : Penis not required anymore, though you can still add it if you like)*
-![VRSexMCM](../img/VRSexAutofuta.jpeg)
-- Creature animations may play if you selected a defeat mod among the optional NSFW mods, or if you use the Sexlab Enchantress spells. If you would like to disable them, go to Sexlab > Animation Settings > Allow Creature Animation.
-![SexlabMCM](../img/DisableCreatures.jpeg)
-- Sexlab Romance will give you [Romance] dialog prompts to attempt to seduce any NPC by default. If you would like to limit this, disable the "Enable Dialogue for Male NPCs" and/or "Enable Dialogue for Female NPCs" options in the Sexlab Romance MCM.
-![SexlabRomanceMCM](../img/Romance.jpg)
-- The Imaginator MCM will allow you to adjust your game's visual settings to your liking.<img width="1483" height="794" alt="image" src="https://github.com/user-attachments/assets/9b6f85d1-0312-4417-8741-78521328f5b8" />
 
 # Updating Tahrovin
 When an update is released, please always check the [changelog](Changelog.html) first. You may not need to update your modlist but if there is anything that resolves game breaking issues, it'll be noted in the changelog. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
@@ -216,6 +201,7 @@ For Tahrovin Grit, updates that change only the last digit of the version number
 
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
+
 
 
 
