@@ -6,7 +6,7 @@ nav_order: 2
 
 
 # Installation
-Please follow all of steps below if it is your first time installing this modlist, if you're updating you can [jump straight there](#updating-tahrovin).
+Please follow all of steps below if it is your first time installing this modlist, if you're updating you can [jump straight there](#updating-sog).
 
 ## Preparation
 
@@ -16,7 +16,7 @@ This package is a must as it is needed by MO2 - you may already have it if you'v
 [Download Visual C++ Redistributable Package.](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
 ### Setup your Page File
-Skyrim modlists need a large amount of memory purely because of the amount of *stuff* in them - especially modlists on the larger side or with a lot going on, like Tahrovin. For the best experience, you should setup a pagefile of at least **20GB** - yes, even if you have a million GB of RAM. To setup your pagfile;
+Skyrim modlists need a large amount of memory purely because of the amount of *stuff* in them - especially modlists on the larger side or with a lot going on, like SoG. For the best experience, you should setup a pagefile of at least **20GB** - yes, even if you have a million GB of RAM. To setup your pagfile;
 
 1. Hold down the *LEFT* Windows key and press **R**
 2. Type in `systempropertiesadvanced` in the run box and then press ENTER
@@ -200,6 +200,7 @@ For Tahrovin Grit, updates that change only the last digit of the version number
 
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
+
 
 
 
