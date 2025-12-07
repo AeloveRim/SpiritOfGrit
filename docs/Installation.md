@@ -84,9 +84,9 @@ Downloads from file hosts such as Google Drive and Mega can sometimes be a pain 
 Download these files and place them *as they are* into the same folder you will tell Wabbajack to put your downloads in. Let me reiterate just to be sure - **do not unzip the archives!**
 
 ## Wabbajack
-Installing the list is straight forward, Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff. Grab the Tahrovin from the Wabbajack UI, once its downloaded the initial stuff it needs, Wabbajack will have 2 things for you to do - fill in the installation location and the download location. 
+Installing the list is straight forward, Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff. Grab the Spirit of Grit list from the Wabbajack UI, once its downloaded the initial stuff it needs, Wabbajack will have 2 things for you to do - fill in the installation location and the download location. 
 
-Set the installation location to a folder on the root of a drive, something like `C:\Tahrovin`. Do not install it to one of the protected folders as mentioned earlier. The download location will have likely been filled in for you too - ensure it matches the directory you set for the installation location, or if you have multiple Skyrim VR modlists installed, use a common download folder - this will stop you from having to redownload common mods across multiple modlists. Note that **if your download folder is nested inside your modlist installation folder,** as Wabbajack does by default, **it will be erased every time you reinstall** and you will have to download all the mods again.
+Set the installation location to a folder on the root of a drive, something like `C:\SoG`. Do not install it to one of the protected folders as mentioned earlier. The download location will have likely been filled in for you too - ensure it matches the directory you set for the installation location, or if you have multiple Skyrim VR modlists installed, use a common download folder - this will stop you from having to redownload common mods across multiple modlists. Note that **if your download folder is nested inside your modlist installation folder,** as Wabbajack does by default, **it will be erased every time you reinstall** and you will have to download all the mods again.
 
 Before you hit **GO**, a quick tip:
 
@@ -189,17 +189,18 @@ If you are playing with the Vanilla Start option, the mods will initialize while
 
 Modifying the CBBE 3BA and/or HIMBO morphs in the racemenu during character creation is not recommended. Instead, after reloading your game, you should use the autobody shortcut (right thumbstick + controller down) to select a body preset for your character.
 
-# Updating Tahrovin
+# Updating SoG
 When an update is released, please always check the [changelog](Changelog.html) first. You may not need to update your modlist but if there is anything that resolves game breaking issues, it'll be noted in the changelog. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
 
 If you have added anything to this modlist at all, Wabbajack will also delete those. You should know how to stop it from doing this if you're going to add stuff to modlists but if you don't, you have to prepend your mod name with `[NoDelete]` - this will make Wabbajack ignore these files. You will need to reinstall these mods and re-sort their load order after an update though, so I hope you kept backup information on where they went in the load order!
 
 All that aside, updates are basically the same as an installation except you have to ensure that you have the "Overwrite" checkbox ticked in Wabbajack.
 
-For Tahrovin Grit, updates that change only the last digit of the version number are minor updates while updates that change the digits before that are major updates. Minor updates are save-safe, major updates are not. It is recommended to start a new save if you update to a new major version of Tahrovin Grit.
+For Spirit of Grit, updates that change only the last digit of the version number are minor updates while updates that change the digits before that are major updates. Minor updates are save-safe, major updates are not. It is recommended to start a new save if you update to a new major version of Spirit of Grit.
 
-# Uninstalling Tahrovin
-No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
+# Uninstalling SoG
+No fancy uninstallation needed, you can just delete the SoG folder and it'll be gone. There'll be no files left inside your Steam installation folder because SoG uses the stock game feature of Wabbajack.
+
 
 
 
