@@ -103,6 +103,8 @@ Skyrim's regular skill leveling is not gone, but is now much slower. Your skills
 
 At higher levels, you may have a hard time finding a sufficiently-skilled trainer. In that case, scrolls of the Ethereal Instructor are sold by many merchants, and can be crafted at a tanning rack. They are fairly expensive but can be an alternative way to find proper training by summoning Master-level trainers.
 
+The perk overhaul is [Vokriinator](https://www.nexusmods.com/skyrimspecialedition/mods/26702), although many of the perks have been reworked and rebalanced, with many new perks added and many others removed. In general you will have many abilities to choose from but you will not be able to do everything.
+
 ## Crafting and Economy
 You may notice that the only crafting workstations you are able to use from the start are the Tanning Rack and the Smelter. Otherwise, you will need to increase your skills first. Smithing workstations require a smithing skill of 15. Alchemy and Enchanting workstations require their skill at 20.
 
@@ -212,6 +214,7 @@ Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or dr
 - Don't try to tank dragon breath unless you have a lot of health and resistances. You can of course hide behind an obstacle when the dragon is about to breathe, but there are also a lot of other ways to deal with dragon breath. For example, a mage can block dragon breath with even the weakest ward. A warrior could block it with the Whirlwind Shield block perk. A skilled thief could avoid it with the Dodge Roll sneak perk.
 
 - Dragons take less damage from opponents that aren't you. As such, summons and hirelings are less effective against them.
+
 
 
 
