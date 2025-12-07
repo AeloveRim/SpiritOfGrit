@@ -5,14 +5,9 @@ nav_order: 0
 ---
 
 ![Tahrovin Banner](img/Tahrovin.png)
-
-First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country. Tahrovin is a collection of different mods from various sources, it does not reflect the views or opinions of any mod author's featured in the list.**
-
 Support and general talk about Tahrovin resides on iAmMe's Discord:
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/iammodlist)
-
-Want an idea of what the list plays like ? [I made a video](https://odysee.com/$/embed/@Aeloverim:7/TahrovinGritIntro:2?r=3Lr3Zfv8p6NtvXgznroYw94PqUVBocA7) of the first hour or so of gameplay, all the while explaining various grit-specific concepts. Note that this is in "Grit - Performance" profile, so not as pretty as it gets, and that I am very much not a native english speaker so you probably won't understand me all the time. 
 
 # What is Tahrovin Grit ?
 Tahrovin Grit is a fork of Tahrovin, a NSFW Skyrim VR modlist. It retains some of the eye-candy its predecessor is known for, but opts for more grounded outfits and slightly less intrusive NSFW mods. It also features light survival gameplay and aims towards a slower-paced character growth, reworking many gameplay mechanics to provide a well-balanced challenge throughout your playthrough.
