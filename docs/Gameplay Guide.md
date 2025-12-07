@@ -213,7 +213,7 @@ Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or dr
 
 - Dragons take less damage from opponents that aren't you. As such, summons and hirelings are less effective against them.
 
-## The Extra Quests Profile
+
 
 
 
