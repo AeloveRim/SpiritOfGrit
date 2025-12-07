@@ -4,7 +4,7 @@ layout: home
 nav_order: 0
 ---
 
-![Tahrovin Banner](img/Tahrovin.png)
+![Tahrovin Banner](img/SpiritFinal2.png)
 Support and general talk about Tahrovin resides on iAmMe's Discord:
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/iammodlist)
