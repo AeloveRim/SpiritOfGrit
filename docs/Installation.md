@@ -127,7 +127,7 @@ Remember, AMD and non-RTX GPU's must use **FSR** and not DLSS or DLAA.
 ![Upscaler Selection](../img/UpscalerSelection.png)
 
 ## Creating a desktop shortcut
-Nobody wants to be launching their game via multiple clicks, they want to be able to do it from the desktop! This is simple to do - open MO2, ensure **Tahrovin** is selected in the dropdown and click the "Shortcut" button. From the small dropdown menu, click "Desktop". Of course, you can always run from inside of MO2 by clicking the "Run" button instead.
+Nobody wants to be launching their game via multiple clicks, they want to be able to do it from the desktop! This is simple to do - open MO2, ensure **Spirit of Grit** is selected in the dropdown and click the "Shortcut" button. From the small dropdown menu, click "Desktop". Of course, you can always run from inside of MO2 by clicking the "Run" button instead.
 
 ![Desktop Shortcut Creation](../img/DesktopShortcut00.png)
 
@@ -197,6 +197,7 @@ For Spirit of Grit, updates that change only the last digit of the version numbe
 
 # Uninstalling SoG
 No fancy uninstallation needed, you can just delete the SoG folder and it'll be gone. There'll be no files left inside your Steam installation folder because SoG uses the stock game feature of Wabbajack.
+
 
 
 
