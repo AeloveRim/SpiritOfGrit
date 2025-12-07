@@ -98,21 +98,21 @@ Once you have everything set in Wabbajack, hit **GO** and let it do its thing. I
 If you're having issues with installation, check the [troubleshooting page](Troubleshooting.html). 
 
 # Post-Installation
-Almost there but we're not out of the woods yet! After Wabbajack has given you the installation successful screen, you're free to close it. Navigate to the Tahrovin installation folder and run MO2 by double-clicking `ModOrganizer.exe`.
+Almost there but we're not out of the woods yet! After Wabbajack has given you the installation successful screen, you're free to close it. Navigate to the SoG installation folder and run MO2 by double-clicking `ModOrganizer.exe`.
 
 ***DO NOT UNDER ANY CIRCUMSTANCES RUN LOOT. The load order is exactly as intended out of the box and you do not need to change it.***
 
 ## Stock Game
-Tahrovin utilises the stock game feature offered by Wabbajack, meaning that Wabbajack will make a local copy of your Skyrim VR game files during the installation process. This means that your Steam installation of Skyrim VR is completely untouched, even by files that go in the game folder such as ENB files.
+Spirit of Grit utilises the stock game feature offered by Wabbajack, meaning that Wabbajack will make a local copy of your Skyrim VR game files during the installation process. This means that your Steam installation of Skyrim VR is completely untouched, even by files that go in the game folder such as ENB files.
 
 ## Selecting a profile
 <img width="280" height="116" alt="image" src="https://github.com/user-attachments/assets/f1c2134e-0a76-43d0-a61d-2e4420c275c7" />
 
 
 Before you go any further, you should select a profile. The differences are as follows : 
-- Tahrovin Grit : The main profile, uses a lightweight ENB and puredark's VR Upscaler.
-- Tahrovin Grit CS : Uses Community Shaders. More resource-hungry than the other profiles.
-- Tahrovin Grit Performance: Not as pretty as the other profiles, but takes a lot less resources.
+- Spirit of Grit : The main profile, uses a lightweight ENB and puredark's VR Upscaler.
+- Spirit of Grit CS : Uses Community Shaders. More resource-hungry than the other profiles.
+- Spirit of Grit Performance: Not as pretty as the other profiles, but takes a lot less resources.
 
 ## Community Shaders
 As a note the first time Community Shaders runs it will have to compile shaders, this may take a while and may look like SkyrimVR is frozen, just be patient. This process will also most likely be repeated any time you change mods in the list.
@@ -200,6 +200,7 @@ For Spirit of Grit, updates that change only the last digit of the version numbe
 
 # Uninstalling SoG
 No fancy uninstallation needed, you can just delete the SoG folder and it'll be gone. There'll be no files left inside your Steam installation folder because SoG uses the stock game feature of Wabbajack.
+
 
 
 
