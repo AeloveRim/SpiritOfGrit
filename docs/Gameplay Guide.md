@@ -171,7 +171,7 @@ While followers may be a powerful asset, having too many of them may be detrimen
 
 The Leadership speech perk will allow you to bring more followers without a penalty.
 
-Many new mod-added followers are available : [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278), [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035), [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461), [M'rissi](https://www.nexusmods.com/skyrimspecialedition/mods/9666), [Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874), [Xelzaz](https://www.nexusmods.com/skyrimspecialedition/mods/62893) and many followers from [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194).
+New mod-added followers are available : [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278), [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035), [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461), [M'rissi](https://www.nexusmods.com/skyrimspecialedition/mods/9666), [Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874), [Xelzaz](https://www.nexusmods.com/skyrimspecialedition/mods/62893) and many followers from [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194).
 
 ## Quests
 The main quest has been delayed so that after completing Bleak Falls Barrow you will need to wait a few days and be at least level 7 before you are asked to deal with the first dragon at the watchtower. The reason for this is that this unlocks dragons, and you would *not* want to fight a dragon at level 1 in this list. On the other hand, even if you choose not to go through with the main quest at all, dragons will still start appearing in the world starting at level 10.
@@ -219,6 +219,7 @@ Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or dr
 - Don't try to tank dragon breath unless you have a lot of health and resistances. You can of course hide behind an obstacle when the dragon is about to breathe, but there are also a lot of other ways to deal with dragon breath. For example, a mage can block dragon breath with even the weakest ward. A warrior could block it with the Whirlwind Shield block perk. A skilled thief could avoid it with the Dodge Roll sneak perk.
 
 - Dragons take less damage from opponents that aren't you. As such, summons and hirelings are less effective against them.
+
 
 
 
