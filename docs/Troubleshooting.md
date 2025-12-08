@@ -8,7 +8,7 @@ nav_order: 6
 # FAQ & Common Issues
 
 ## My game won't start even after a fresh install!
-Check in your `Tahrovin\Stock Game` folder for an `openvr_api.dll` file. If this file is not present, your game cannot start. To solve this, copy the `openvr_api.dll` file from your Skyrim VR Steam installation folder into your `Tahrovin\Stock Game` folder and relaunch.
+Check in your `SoG\Stock Game` folder for an `openvr_api.dll` file. If this file is not present, your game cannot start. To solve this, copy the `openvr_api.dll` file from your Skyrim VR Steam installation folder into your `SoG\Stock Game` folder and relaunch.
 
 When using ENB Organizer, **always** disable an option *then* enable another. Not doing this will mess up the files.
 
@@ -27,11 +27,11 @@ If you are getting an error message like the screenshot when launching the game,
 ## I Crashed!
 Giving me that little info is not helpful. 
 
-Make sure you excluded your Tahrovin folder in your antivirus software. If you use an aggressive antivirus package such as Webroot, Bitdefender, Avast etc etc, I urge you to get rid of it and just use Windows Defender.
+Make sure you excluded your SoG folder in your antivirus software. If you use an aggressive antivirus package such as Webroot, Bitdefender, Avast etc etc, I urge you to get rid of it and just use Windows Defender.
 
-Please upload (drag and drop the file into the `#tahrovin-support` Discord channel) the most recent crash log from your `Documents\My Games\Skyrim VR\SKSE` folder.
+Please upload (drag and drop the file into the `#grit-sfw` Discord channel) the most recent crash log from your `Documents\My Games\Skyrim VR\SKSE` folder.
 
-If you have modified Tahrovin, ignore the previous advice and keep to the `#tahrovin-modifications` Discord channel. I will not help you with modified lists in official support categories - less because I don't want to and more because I cannot.
+If you have modified SoG, ignore the previous advice and keep to the `#grit-sfw-modifications` Discord channel. I will not help you with modified lists in official support categories - less because I don't want to and more because I cannot.
 
 ## Where's my UI?
 Raise your left hand, palm facing upwards, to activate the compass and your stat bars. Raise your right hand in the same way for your needs bars. If you wish, equip the soul gauges in your inventory and assign them to stats. When it asks for hand offset, I recommend you set the offset to **3**.
@@ -43,7 +43,7 @@ Go to the VRIK MCM and Activate the Selfie mode. Then, raise your right, left, o
 Obody. Default VRIK gesture is Right Thumbstick click + Controller Down. Want to change the Obody gesture? [Read this.](https://github.com/iAmMe27/Tahrovin/wiki/Changing-Autobody-Hotkey)
 
 ## Playing in Seated Mode
-Tahrovin features the `Auto Sneak and Jump` mod which relies on your movement in real life to jump and crouch, therefore making it not very useful to you if you prefer to play in seated mode. Unless you'd like to try sneaking everywhere you go, you should be fine to disable this mod from the "Gameplay Mods" section in MO2.
+Spirit of Grit features the `Auto Sneak and Jump` mod which relies on your movement in real life to jump and crouch, therefore making it not very useful to you if you prefer to play in seated mode. Unless you'd like to try sneaking everywhere you go, you should be fine to disable this mod from the "Gameplay Mods" section in MO2.
 
 ## Loading takes too long!
 Shouldn't have put the modlist on a HDD - I did warn you earlier in this very readme.
@@ -62,10 +62,10 @@ The vanilla SkyrimVR method of blocking with a weapon (holding a weapon sideways
 You probably changed the settings using the in-game settings menu. Any change in there, even minor, will mess up shadows, draw distances, and other things. See [Settings](Installation.html#settings).
 
 ## I can't move!
-You started Tahrovin before making sure your controllers were connected. Restart the game.
+You started SoG before making sure your controllers were connected. Restart the game.
 
 ## I CTD on launch!
-Well, that could be a multitude of things. Make sure you Tahrovin folder is added to your antivirus exceptions/allow list and try again.
+Well, that could be a multitude of things. Make sure your SoG folder is added to your antivirus exceptions/allow list and try again.
 
 If you have some heavily aggressive antivirus program such as Webroot, Bitdefender etc, get rid of it.
 
@@ -73,6 +73,7 @@ If you have a non-RTX Nvidia GPU, I ask you to refer to the [DLSS/FSR/XeSS](Inst
 
 ## Can I add XYZ?
 I don't know, can you?
+
 
 
 
