@@ -142,7 +142,13 @@ Spellwheel has been set up for easy access to food. You never have to go into a 
 
 ## Enemies and encounters
 Encounter zones have been slightly increased, and new enemies have been added with [Hand-Placed Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/59249). [Locational Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/85212) ensures that even in the overworld, enemies will match the level of their encounter zone.
-New random overworld encounters have been added through [Extended Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/44810).
+New random overworld encounters have been added through [Extended Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/44810). 
+[Skyrim Revamped Rebalanced and Releveled](https://www.nexusmods.com/skyrimspecialedition/mods/14598) overhauls bosses. 
+
+[NPCs Take cover](https://www.nexusmods.com/skyrimspecialedition/mods/111890) makes sure melee NPCs aren't static targets you can easily shoot from safety. A custom mod based loosely on [Throwing Weapons Lite SE](https://www.nexusmods.com/skyrimspecialedition/mods/4668) gives some of them throwing weapons of their own to fight back with. Some enemies will also heal themselves with [Smart NPC Potions](https://www.nexusmods.com/skyrimspecialedition/mods/40102).
+
+New enemy creatures will roam the land : [Imps](https://www.nexusmods.com/skyrimspecialedition/mods/33759),
+[Imps](https://www.nexusmods.com/skyrimspecialedition/mods/33759),[Lesser Griffins](https://www.nexusmods.com/skyrimspecialedition/mods/50869),[Draugr Cavalry](https://www.nexusmods.com/skyrimspecialedition/mods/27241),[Will-o-the-wisp](https://www.nexusmods.com/skyrimspecialedition/mods/88987).
 
 [Dragon Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/56082) makes dragons smarter and grants them powerful new abilities. Their attacks are also generally stronger, and they have extra resistance to attacks that do not come directly from you.
 
@@ -214,6 +220,7 @@ Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or dr
 - Don't try to tank dragon breath unless you have a lot of health and resistances. You can of course hide behind an obstacle when the dragon is about to breathe, but there are also a lot of other ways to deal with dragon breath. For example, a mage can block dragon breath with even the weakest ward. A warrior could block it with the Whirlwind Shield block perk. A skilled thief could avoid it with the Dodge Roll sneak perk.
 
 - Dragons take less damage from opponents that aren't you. As such, summons and hirelings are less effective against them.
+
 
 
 
