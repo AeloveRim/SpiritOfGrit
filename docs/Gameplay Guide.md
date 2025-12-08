@@ -149,7 +149,7 @@ New random overworld encounters have been added through [Extended Encounters](ht
 
 New enemy creatures will roam the land : [Imps](https://www.nexusmods.com/skyrimspecialedition/mods/33759), [Lesser Griffins](https://www.nexusmods.com/skyrimspecialedition/mods/50869), [Draugr Cavalry](https://www.nexusmods.com/skyrimspecialedition/mods/27241), [Will-o-the-wisp](https://www.nexusmods.com/skyrimspecialedition/mods/88987).
 
-[Dragon Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/56082) makes dragons smarter and grants them powerful new abilities. Their attacks are also generally stronger, and they have extra resistance to attacks that do not come directly from you.
+[Dragon Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/56082) makes dragons smarter and grants them powerful new abilities. Their attacks are also generally stronger, and they have extra resistance to attacks that do not come directly from the Dragonborn.
 
 ## Death
 [Shadow of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/65136) means death is not the end. In most cases, upon defeat the victor will become your Nemesis and grow in power. Meanwhile, you will receive a penalty : either (100*your level) in gold, or a dragon soul if you don't have the gold, or one or more permanent points of health (depending on your level) if you don't have the soul either. You will also receive a situational or random debuff and lose some experience.
@@ -219,6 +219,7 @@ Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or dr
 - Don't try to tank dragon breath unless you have a lot of health and resistances. You can of course hide behind an obstacle when the dragon is about to breathe, but there are also a lot of other ways to deal with dragon breath. For example, a mage can block dragon breath with even the weakest ward. A warrior could block it with the Whirlwind Shield block perk. A skilled thief could avoid it with the Dodge Roll sneak perk.
 
 - Dragons take less damage from opponents that aren't you. As such, summons and hirelings are less effective against them.
+
 
 
 
