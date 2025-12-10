@@ -18,7 +18,7 @@ If you'd like to support my work, you can find my ko-fi page here :
 # What is Spirit of Grit ?
 Spirit of Grit is a "hardcore-lite" modlist, providing increased challenge without going too far into tediousness. Gold is precious, character progression is slower, specialization is vital and magic is not a given. Many mod-added gameplay mechanics have been worked into character progression and can be unlocked through skills and custom perks.
 
-As a SFW fork of Tahrovin Grit, the modlist also overhauls visuals and includes a lot of new quests, all of them fully tested and patched, bringing many hours of new content."
+As a SFW fork of Tahrovin Grit, the modlist also overhauls visuals and includes a lot of new quests, all of them fully tested and patched, bringing many hours of new content.
 
 # Before You Start
 Before you dive in, there's a couple things you need to be sure of first:
