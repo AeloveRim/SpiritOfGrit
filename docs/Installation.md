@@ -6,7 +6,7 @@ nav_order: 2
 
 
 # Installation
-Please follow all of steps below if it is your first time installing this modlist, if you're updating you can [jump straight there](#updating-sog).
+Please follow all of the steps below if it is your first time installing this modlist. If you're updating you can [jump straight there](#updating-sog).
 
 ## Preparation
 
@@ -197,6 +197,7 @@ For Spirit of Grit, updates that change only the last digit of the version numbe
 
 # Uninstalling SoG
 No fancy uninstallation needed, you can just delete the SoG folder and it'll be gone. There'll be no files left inside your Steam installation folder because SoG uses the stock game feature of Wabbajack.
+
 
 
 
