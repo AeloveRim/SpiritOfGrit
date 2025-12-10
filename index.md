@@ -5,6 +5,7 @@ nav_order: 0
 ---
 
 ![SoG Banner](img/SpiritFinal2.png)
+
 Support and general talk about Spirit of Grit resides on iAmMe's Discord:
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/iammodlist)
