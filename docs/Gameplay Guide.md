@@ -201,6 +201,8 @@ Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or dr
 ## Gameplay advice
 - The recommended difficulty for this list is Adept. The mods will provide plenty of difficulty on their own.
 
+- Buying a horse is probably one of the best purchases you can make in the early to mid-game, when teleportation and fast travel are not easily attainable yet. Not only will it make travel faster, it can also carry tons of luggage. Just by letting you sell a lot more stuff, the horse will pay for itself in no time.
+
 - When training, be on the lookout for experience modifiers. For example, having read skill books will grant you experience modifiers that make your training more effective. However, training while exhausted will make your training less effective. If you are careless, you might not get a full skill level out of it.
 
 - You can open a container normally instead of using Quickloot by keeping the interact button pressed for a second or two.
@@ -219,6 +221,7 @@ Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or dr
 - Don't try to tank dragon breath unless you have a lot of health and resistances. You can of course hide behind an obstacle when the dragon is about to breathe, but there are also a lot of other ways to deal with dragon breath. For example, a mage can block dragon breath with even the weakest ward. A warrior could block it with the Whirlwind Shield block perk. A skilled thief could avoid it with the Dodge Roll sneak perk.
 
 - Dragons take less damage from opponents that aren't you. As such, summons and hirelings are less effective against them.
+
 
 
 
