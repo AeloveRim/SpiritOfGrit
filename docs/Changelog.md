@@ -5,7 +5,8 @@ nav_order: 8
 ---
 
 # Changelog
-## Spirit of Grit V1.83
+## Spirit of Grit V1.84
 Initial release
+
 
 
