@@ -178,7 +178,7 @@ Feel free to use any music replacer instead of Emeratu or Soulmancer. As long as
 
 When starting a new game, create your character and once done, *DO NOTHING ELSE* and allow the mods to initialise. Once the notifications stop appearing in the top left of your view, you should calibrate VRIK by using the `VRIK Calibration Power` located in your powers menu. Do this while standing on a flat surface in game. Follow the instructions in the VRIK pop-up dialog to ensure you get this right, otherwise you might find yourself towering over everyone else or way too short. Don't worry about making it absolutely perfect, you can recalibrate at any time. After you've calibrated VRIK, head to the Mod Configuration Menu to start the mod setup.
 
-The MCM setup is *mostly* automated and will run on its own after you've finished character creation. As mentioned, *DO NOTHING* until the window pops-up telling you to save.
+The MCM setup is automated and will run on its own after you've finished character creation. As mentioned, *DO NOTHING* until the window pops-up telling you to save.
 
 When you are done, **save your game, go back to the main menu, then load that save** so the last few mods can load properly.
 
@@ -197,6 +197,7 @@ For Spirit of Grit, updates that change only the last digit of the version numbe
 
 # Uninstalling SoG
 No fancy uninstallation needed, you can just delete the SoG folder and it'll be gone. There'll be no files left inside your Steam installation folder because SoG uses the stock game feature of Wabbajack.
+
 
 
 
