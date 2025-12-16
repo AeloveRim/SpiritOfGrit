@@ -152,7 +152,7 @@ Before starting, you can make choices in the Optional sections of the list, colo
 - Vanilla Start : New games will start with the vanilla skyrim intro instead of throwing you straight into the Realm of Lorkhan
 - Quickloot VR : Adds a looting menu similar to the one present in FO4
 - Dragonborn speaks naturally : Grants the ability to use voice commands to do things such as equip spells and items, shout, or select dialogue options. Requires Windows speech recognition.
-- Occlusion FPS Boost : Should give you an FPS boost when outside, at the cost of some rare flickering in specific places (detected on some setups in the Windhelm bridge and on the College's bridge)
+- Occlusion FPS Boost : Should give you an FPS boost when outside, at the cost of some flickering. With some computers it's just very rare flickering in a few specific places, but for some it's a lot more.
 -  Strafing Nerf : Reduces your speed when going backwards or strafing to the side, making it a bit harder to avoid attacks and run circles around your enemies
 -  Subtitles VR : Allows you to have multiple subtitles displayed at once. Can get a bit janky, but useful when you have a lot of followers.
 
@@ -197,6 +197,7 @@ For Spirit of Grit, updates that change only the last digit of the version numbe
 
 # Uninstalling SoG
 No fancy uninstallation needed, you can just delete the SoG folder and it'll be gone. There'll be no files left inside your Steam installation folder because SoG uses the stock game feature of Wabbajack.
+
 
 
 
