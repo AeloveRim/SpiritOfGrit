@@ -29,7 +29,7 @@ The following specs are recommended at minimum:
   * RAM: 16GB of DDR4
   * GPU: RTX 2060 *or the AMD equivalent with at least 6GB of VRAM*
 
-You will need at least `160GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `78GB`- ideally you want *at least* `300GB` for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
+You will need at least `160GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `80GB`- ideally you want *at least* `300GB` for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
 
 **If you are struggling with performance, try the [performance tips here](docs/Performance Tips.html)**
 
