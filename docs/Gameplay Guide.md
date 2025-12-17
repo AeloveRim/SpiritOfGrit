@@ -184,7 +184,7 @@ Besides that, a lot of quests have been added : [Legacy of the Dragonborn](https
 [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408) is the Vampire overhaul. [Nightmare Night](https://www.nexusmods.com/skyrimspecialedition/mods/60751) is the werewolf overhaul.
 They have both been tweaked in various ways. Vampire's Shroud lasts much longer, and the stat regeneration penalty in sunlight has been decreased from 1000% to 100%, so having extra stat regeneration bonuses will allow you to still regenerate a little bit in sunlight. However, the Champion of the Night, Unnatural Strength and Nightstalker's footsteps abilities have a lower magnitude, and the Vampire's Seduction power now only works against targets who are not currently in combat.
 
-For werewolves, Bestial Strength and Inhuman Strength have been nerfed, and Nightmare's Requiem now has a time limit.
+For werewolves, Bestial Strength and Inhuman Strength have been nerfed, and Nightmare's Requiem now has a time limit. Werewolves can no longer ragdoll people by power attacking, but they get the ability to pick up and throw most NPCs once they have been brought down to at least half their health.
 
 Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or drinking potions of Viscera) and Werewolf perks (acquired by killing people as a werewolf) are now limited in that you cannot have more of them than your character level.
 
@@ -221,6 +221,7 @@ Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or dr
 - Don't try to tank dragon breath unless you have a lot of health and resistances. You can of course hide behind an obstacle when the dragon is about to breathe, but there are also a lot of other ways to deal with dragon breath. For example, a mage can block dragon breath with even the weakest ward. A warrior could block it with the Whirlwind Shield block perk. A skilled thief could avoid it with the Dodge Roll sneak perk.
 
 - Dragons take less damage from opponents that aren't you. As such, summons and hirelings are less effective against them.
+
 
 
 
