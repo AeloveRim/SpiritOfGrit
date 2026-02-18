@@ -34,6 +34,8 @@ The Realm of Lorkhan will also allow you to select Handicaps that will further d
 
 A Handicap is a very severe penalty, so make sure to only use them with skills you don't intend to use much or at all.
 
+Finally, you can use the [Book of Origins](https://www.nexusmods.com/skyrimspecialedition/mods/167166) to determine a goal for your character. If you do so, you will receive a penalty until that goal is accomplished and, once it is done, a reward commensurate to the difficulty of the task.
+
 Once you teleport at one of the crystals, you'll be dumped into Skyrim in the place you chose. Make your choices wisely though - once you leave, you cannot return.
 
 ## Playing a mage
@@ -103,6 +105,8 @@ Skyrim's regular skill leveling is not gone, but is now much slower. Your skills
 
 At higher levels, you may have a hard time finding a sufficiently-skilled trainer. In that case, scrolls of the Ethereal Instructor are sold by many merchants, and can be crafted at a tanning rack. They are fairly expensive but can be an alternative way to find proper training by summoning Master-level trainers.
 
+Eventually, you will also be able to use the Self-Improvement power to train yourself. This can only be done once per day, requires both mastery perks for the skill to be unlocked, costs 1 more TP but costs no gold.
+
 The perk overhaul is [Vokriinator](https://www.nexusmods.com/skyrimspecialedition/mods/26702), although many of the perks have been reworked and rebalanced, with many [new perks](New Perks.html) added and others removed.
 
 ## Crafting and Economy
@@ -132,6 +136,8 @@ If you have enough firewood in your inventory, you can use it by selecting it in
 
 Fast travel is disabled, but can still be employed through one-shot scrolls of Rapid Transportation, available at general vendors, court wizards, and generally any merchant that would sell soulgems. These scrolls can also be crafted by converting common soulgems at a Tanning Rack. Using this method regularly can be expensive until late game though - until then, there are now more carriage routes available thanks to [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379). 
 
+You can also eventually unlock the ability to Fast Travel once per day by using 3 dragon souls. Simply research Draconic Transportation in the Arcane Research Manual in your inventory.
+
 Consider buying a horse when able. A horse will also be useful to carry more things : Thanks to [Horse Storage](https://www.nexusmods.com/skyrimspecialedition/mods/3838) you can access your horse's inventory by sneaking while activating them. You can also call your horse at any time while you are outside with the [Call your Horse](https://www.nexusmods.com/skyrimspecialedition/mods/49595) power.
 
 Animals will drop a little bit more loot, and their pelts are now a bit more valuable. It will not necessarily always be better to turn it all into leather. 
@@ -149,7 +155,7 @@ New random overworld encounters have been added through [Extended Encounters](ht
 
 New enemy creatures will roam the land : [Imps](https://www.nexusmods.com/skyrimspecialedition/mods/33759), [Lesser Griffins](https://www.nexusmods.com/skyrimspecialedition/mods/50869), [Draugr Cavalry](https://www.nexusmods.com/skyrimspecialedition/mods/27241), [Will-o-the-wisp](https://www.nexusmods.com/skyrimspecialedition/mods/88987).
 
-[Dragon Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/56082) makes dragons smarter and grants them powerful new abilities. Their attacks are also generally stronger, and they have extra resistance to attacks that do not come directly from the Dragonborn.
+[Fire and Blood]([https://www.nexusmods.com/skyrimspecialedition/mods/56082](https://www.nexusmods.com/skyrimspecialedition/mods/156018)) makes dragons smarter and grants them powerful new abilities. Their attacks are also generally stronger, and they have extra resistance to attacks that do not come directly from the Dragonborn.
 
 ## Death
 [Shadow of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/65136) means death is not the end. In most cases, upon defeat the victor will become your Nemesis and grow in power. Meanwhile, you will receive a penalty : either (100*your level) in gold, or a dragon soul if you don't have the gold, or one or more permanent points of health (depending on your level) if you don't have the soul either. You will also receive a situational or random debuff and lose some experience.
@@ -178,7 +184,7 @@ The main quest has been delayed so that after completing Bleak Falls Barrow you 
 
 Delaying the main quest doesn't mean Alduin will stay put forever either. After 90 days, if you haven't finished the main quest, Alduin will come seeking to destroy you. This will be an easier fight than the actual, full-powered Alduin you will have to fight in the main quest, but you should still make sure you have grown strong enough to fend him off. Once you do, you will have 20 more days before he seeks you out again. Take care and don't slack off on your training : every time he comes back, Alduin will be even more powerful !
 
-Besides that, a lot of quests have been added : [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155), [Maelstrom](https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-quest-mod-se/), [New Vominheim](https://www.nexusmods.com/skyrimspecialedition/mods/70963), [Frozen in time](https://www.nexusmods.com/skyrimspecialedition/mods/39732), [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423), [The Gift of Saturalia](https://www.nexusmods.com/skyrimspecialedition/mods/105697), [The forgotten city](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [The chain of time](https://www.nexusmods.com/skyrimspecialedition/mods/95062), [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120), [Fortune's Tradehouse](https://www.nexusmods.com/skyrimspecialedition/mods/22755), [The shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167), [Meridia's Order](https://www.nexusmods.com/skyrimspecialedition/mods/102584), [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634), [DAc0da](https://www.nexusmods.com/skyrimspecialedition/mods/134405), [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/141327), [The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748), [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494), [Hel Rising](https://www.loverslab.com/topic/173622-hel-rising-norse-dungeon-quest-and-follower-mod-se), the many quests from [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) and many of [jayserpa's vanilla quest expansions](https://www.nexusmods.com/skyrimspecialedition/users/5201727) have been integrated.
+Besides that, a lot of quests have been added : [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155), [Maelstrom](https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-quest-mod-se/), [New Vominheim](https://www.nexusmods.com/skyrimspecialedition/mods/70963), [Frozen in time](https://www.nexusmods.com/skyrimspecialedition/mods/39732), [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423), [The Gift of Saturalia](https://www.nexusmods.com/skyrimspecialedition/mods/105697), [The forgotten city](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [The chain of time](https://www.nexusmods.com/skyrimspecialedition/mods/95062), [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120), [Fortune's Tradehouse](https://www.nexusmods.com/skyrimspecialedition/mods/22755), [The shadow of Meresis](https://www.nexusmods.com/skyrimspecialedition/mods/38167), [Meridia's Order](https://www.nexusmods.com/skyrimspecialedition/mods/102584), [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634), [DAc0da](https://www.nexusmods.com/skyrimspecialedition/mods/134405), [Sleepwalking into a nightmare](https://www.nexusmods.com/skyrimspecialedition/mods/141047), [The Devil's in the Details](https://www.nexusmods.com/skyrimspecialedition/mods/146620), [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/141327), [The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748), [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494), [Hel Rising](https://www.loverslab.com/topic/173622-hel-rising-norse-dungeon-quest-and-follower-mod-se), the many quests from [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) and many of [jayserpa's vanilla quest expansions](https://www.nexusmods.com/skyrimspecialedition/users/5201727) have been integrated.
 
 ## Vampires and Werewolves
 [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408) is the Vampire overhaul. [Nightmare Night](https://www.nexusmods.com/skyrimspecialedition/mods/60751) is the werewolf overhaul.
@@ -195,7 +201,7 @@ Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or dr
 - [Quickloot VR](https://www.nexusmods.com/skyrimspecialedition/mods/102094) reduces the amount of menus
 - [Reading is good](https://www.nexusmods.com/skyrimspecialedition/mods/42026) means you no longer need to hold on to these skill books forever
 - [Voiced books of skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/94436) means you can pop an audiobook while traveling.
-- [Onyx Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/36227) replaces the weather mod, with much brighter nights.
+- [Real VR Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/71161) has been tweaked a bit for brighter nights.
 - [Skyshards](https://www.nexusmods.com/skyrimspecialedition/mods/60748) adds mysterious stones for you to hunt down throughout skyrim. Every 3 shards absorbed will grant an experience reward - small at first, but which will get larger every time. Every 15 shards absorbed will grant an extra perk.
 
 ## Gameplay advice
@@ -216,23 +222,7 @@ Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or dr
 
 - NPC Mages can be tricky opponents, especially at low level. Keep in mind that, thanks to [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549), you can often stagger mages by power-attacking them while they are casting a spell. Once you've staggered them once, there'll be a period where you won't be able to stagger them again. You can also parry most projectiles - including projectile spells - with your weapon or shield. Holding trigger will make the projectiles slightly slower as they approach at the cost of a little magicka, helping you parry. Of course, this doesn't work on area spells.
 
-- Before you attempt to take down a dragon, make sure you have a good ranged attack. Dragons will absolutely murder you in melee unless you block, parry, or ward against every one of their melee attacks, including when they land on you. Even if you can survive a dragon in close quarters, they will not simply stand by while you hack at them.
-
-- Don't try to tank dragon breath unless you have a lot of health and resistances. You can of course hide behind an obstacle when the dragon is about to breathe, but there are also a lot of other ways to deal with dragon breath. For example, a mage can block dragon breath with even the weakest ward. A warrior could block it with the Whirlwind Shield block perk. A skilled thief could avoid it with the Dodge Roll sneak perk.
-
-- Dragons take less damage from opponents that aren't you. As such, summons and hirelings are less effective against them.
-
-
-
-
-
-
-
-
-
-
-
-
+- Before you attempt to take down a dragon, make sure you have a good ranged attack. Dragons will absolutely murder you in melee unless you block, parry, or ward against their melee attacks. Make sure to read the book on fighting dragons available in the Realm of Lorkhan and in Farengar's study.
 
 
 
