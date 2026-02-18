@@ -35,10 +35,6 @@ Then you will need to set your prefered platform to handle OpenXR
 
 ![OpenXRSelect](../img/OpenXRSelect.png)
 
-Optionally if you would like to have a name other than Tahrovin when using Open Composite you can use the OC Character Renamer in the Your Choices section of MO2. Just right click on the mod, open in explorer, open the root folder and open opencomposite.ini. You can then change Tahrovin to be whatever you want your character to be named when you finish character creation.
-
-![OCCharacterNamer](../img/OCCharacterNamer.png)
-
 ***Note:** OpenComposite does not work for any other headset than Oculus headsets!*
 
 ## Change Refresh Rate
@@ -91,6 +87,7 @@ The Oculus Debug Tool also comes with a performance overlay. Follow the steps ab
 ***DON'T CLOSE THE OCULUS DEBUG TOOL AS THIS WILL ALSO CLOSE THE PERFORMANCE OVERLAY.***
 
 You will know when it is enabled as soon as you put on your headset. You can use the info here to help with monitor the performance you are getting in-game.
+
 
 
 
