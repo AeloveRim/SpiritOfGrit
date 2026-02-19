@@ -5,7 +5,7 @@ nav_order: 8
 ---
 
 # Changelog
-## Spirit of Grit V1.92
+## Spirit of Grit V1.93
 - Added a tweaked version of Fire and Blood
 - Added Dragonactorscript infinite loop fix
 - Added VR Climbing - Aelove Ver to Optionals
@@ -17,6 +17,7 @@ nav_order: 8
 - Added Finding Helgi and Laelette - A Laid to Rest Overhaul
 - Added Sleepwalking into a Nightmare
 - Added The Devil's in the Details
+- Added QTE VR
 - Updated Interactive Activators VR to v1.1.5
 - Updated The Devil's in the Details to 1.0.7
 - Updated DynDOLOD TexGen Fixes to v2.4
@@ -26,6 +27,7 @@ nav_order: 8
 - Updated Spell Wheel VR to v1.5.9
 - Removed Dragon Combat Overhaul
 - Removed Dodgeable Dragon Shouts
+- Removed the Disguise Pickpocket perk. Now you get the Disguise power from the start.
 - Disabled videos in Skyrim on Skooma
 - Switched Realistic Grass from All Green to regular
 - Increased grass distance a bit on non-performance profiles
@@ -62,6 +64,7 @@ nav_order: 8
 
 ## Spirit of Grit V1.84
 Initial release
+
 
 
 
