@@ -96,7 +96,7 @@ You will have a Disguise power that can toggle on and off the ability. When it i
 
 Light is a very important factor when it comes to sneaking in Grit. You will probably want to grab Night Vision, either with the "Sharp Eye" sneak perk or through any other means. Sneaking around with a torch or a candlelight spell is generally a bad idea.
 
-Some of the perk changes from the usual [Vokriinator](https://www.nexusmods.com/skyrimspecialedition/mods/26702) stuff will impact thieves. Most importantly, the Pickpocket and Lockpicking Mastery perks will now allow you to train both skills at once for the price of one. [Disguise](https://www.nexusmods.com/skyrimspecialedition/mods/133426) adds a series of Pickpocket perks that allows you to disguise your identity and can be very useful to evade bounties or avoid getting them in the first place. 
+Some of the perk changes from the usual [Vokriinator](https://www.nexusmods.com/skyrimspecialedition/mods/26702) stuff will impact thieves. Most importantly, the Pickpocket and Lockpicking Mastery perks will now allow you to train both skills at once for the price of one.
 
 ## Leveling
 Instead of increasing your level by raising your skills, the [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) mod lets you increase your level as you adventure, exploring Skyrim and accomplishing quests. The leveling curve has been modified to provide a slower-paced experience.
@@ -225,6 +225,7 @@ Both Vampire Lord perks (acquired by killing people with Raze or Gutwrench or dr
 - NPC Mages can be tricky opponents, especially at low level. Keep in mind that, thanks to [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549), you can often stagger mages by power-attacking them while they are casting a spell. Once you've staggered them once, there'll be a period where you won't be able to stagger them again. You can also parry most projectiles - including projectile spells - with your weapon or shield. Holding trigger will make the projectiles slightly slower as they approach at the cost of a little magicka, helping you parry. Of course, this doesn't work on area spells.
 
 - Before you attempt to take down a dragon, make sure you have a good ranged attack. Dragons will absolutely murder you in melee unless you block, parry, or ward against their melee attacks. Make sure to read the book on fighting dragons available in the Realm of Lorkhan and in Farengar's study.
+
 
 
 
