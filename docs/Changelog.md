@@ -17,7 +17,7 @@ nav_order: 8
 - Added Finding Helgi and Laelette - A Laid to Rest Overhaul
 - Added Sleepwalking into a Nightmare
 - Added The Devil's in the Details
-- Added QTE VR
+- Added QTE VR Framework
 - Updated Interactive Activators VR to v1.1.5
 - Updated The Devil's in the Details to 1.0.7
 - Updated DynDOLOD TexGen Fixes to v2.4
@@ -64,6 +64,7 @@ nav_order: 8
 
 ## Spirit of Grit V1.84
 Initial release
+
 
 
 
