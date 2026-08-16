@@ -15,25 +15,6 @@ nav_order: 8
 - Added Rescue Missions
 - Added Wall Bang animation
 - Added Tale of Tsatampra Xiros - GnW patch
-- Updated Spell Wheel VR to v1.5.11
-- Updated Ostim to v7.4c
-- Updated HIGGS to v1.10.10
-- Updated Weapon Throw VR to v1.4.0
-- Updated Planck to v0.81
-- Updated the Chain of Time to v1.2.1
-- Updated Ordinator to v9.35.0
-- Updated Dyndolod Texgen Fixes to v2.4
-- Added Unarmored Defense Light Armor perks
-- Pickpocket mastery now allows crafting Disguise Masks
-- Reworked smithing perks so the later material crafting perks are worth it
-- Fixed description of Harsh Lesson perk
-- Fixed skill buffs preventing training in a few cases
-- Higher ranks of vampirism are now level-gated
-- NPCs are now slower at throwing daggers
-- You can now only use one unique card per triple triad match
-- Misty skye's armor no longer defies the rules of armor slots
-- Moved Interactive Activators to optionals
-- Separated optionals into two categories
 - Added Demon of Dream
 - Added Finding Derkeethus
 - Added Path to Volkihar, Alternate Dawnguard Paths and Dawnguard CR patch
@@ -54,12 +35,49 @@ nav_order: 8
 - Added Dwarven Engineering - Tweaks
 - Added Basic Wenches
 - Added No Menu Fade Out VR
-- Removed Skyrim Town Criers
-- Removed Subtitles VR
-- Removed the Break Entry werewolf perk, werewolves in beast form can now just bash locks up to adept by default
+- Added Bells of Skyrim
+- Added Bells of Skyrim - Companions join the Battle
+- Added More Dialogue Options
+- Added Don't Stay in The Water
+- Added College of winterhold quest start fixes
+- Added Immersive Dialogue Expansion - Stormcloaks
+- Added Skyrim Town Criers
+- Added Interesting Popups for 3DNPC
+- Added Gods and Worship
+- Added a whole bunch of patches and tweaks for Gods and Worship
+- Added Hammer and Whetstone
+- Tweaked Hammer and Whetstone, with smithing perks determining usage value
+- Updated Spell Wheel VR to v1.5.11
+- Updated Ostim to v7.4c
+- Updated HIGGS to v1.10.10
+- Updated Weapon Throw VR to v1.4.0
+- Updated Planck to v0.81
+- Updated the Chain of Time to v1.2.1
+- Updated Ordinator to v9.35.0
+- Updated Dyndolod Texgen Fixes to v2.4
+- Updated the Forsworn Conspiracy Quest Expansion to v1.2
+- Updated Crash Logger VR to v1.20.1
+- Updated Community Shaders to the Unofficial VR Fork
+- Updated Skylighting to v1.2.3
+- Updated Grass Collision to v3.0.2
+- Updated Khajiit will follow to v4.7.4c
+- Updated Auto Name Enchantments
 - Updated Quickloot VR to v1.3
 - Updated VR Address library to v0.242.0
 - Updated Interactive Activators to v1.1.7s
+- Added Unarmored Defense Light Armor perks
+- Pickpocket mastery now allows crafting Disguise Masks
+- Reworked smithing perks so the later material crafting perks are worth it
+- Fixed description of Harsh Lesson perk
+- Fixed skill buffs preventing training in a few cases
+- Higher ranks of vampirism are now level-gated
+- NPCs are now slower at throwing daggers
+- You can now only use one unique card per triple triad match
+- Moved Interactive Activators to optionals
+- Separated optionals into two categories
+- Removed Skyrim Town Criers
+- Removed Subtitles VR
+- Removed the Break Entry werewolf perk, werewolves in beast form can now just bash locks up to adept by default
 - Moved Auto Sneak and Jump VR to the Optionals section
 - Added the Field Forge smithing perk
 - The Entice Barter Illusion perk now also improves prices
@@ -79,32 +97,11 @@ nav_order: 8
 - Nerfed Auri
 - Added a batch file to fix shadow resolution on launch
 - NPC throwing daggers are now a bit slower and a bit stronger
-- Most waitresses and priestesses of Dibella now offer prostitution services
 - Fixed indecent exposure reporting you while in werewolf or vampire lord form
 - Added Personalized Music - Modernized
 - Added Pickpocket Reset VR
 - NPC inventories will also reset a few days after taking their gold through Triple Triad or Bard perks
-- Added Bells of Skyrim
-- Added Bells of Skyrim - Companions join the Battle
-- Added More Dialogue Options
-- Added Don't Stay in The Water
-- Added College of winterhold quest start fixes
-- Added Immersive Dialogue Expansion - Stormcloaks
-- Added Skyrim Town Criers
-- Added Interesting Popups for 3DNPC
-- Added Gods and Worship
-- Added a whole bunch of patches and tweaks for Gods and Worship
-- Added Potato Mode Profile
-- Added Hammer and Whetstone
-- Tweaked Hammer and Whetstone, with smithing perks determining usage value
 - Added Zora Normalized
-- Updated the Forsworn Conspiracy Quest Expansion to v1.2
-- Updated Crash Logger VR to v1.20.1
-- Updated Community Shaders to the Unofficial VR Fork
-- Updated Skylighting to v1.2.3
-- Updated Grass Collision to v3.0.2
-- Updated Khajiit will follow to v4.7.4c
-- Updated Auto Name Enchantments
 - Removed Personal Music Framework
 - Removed Personal Music Framework - Personalized Music Patch
 - Removed Spell Sprinkler
