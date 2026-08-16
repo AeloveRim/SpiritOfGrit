@@ -13,7 +13,6 @@ nav_order: 8
 - Added the Tale of Tsatampra Xiros
 - Added Siege at Icemoth
 - Added Rescue Missions
-- Added Wall Bang animation
 - Added Tale of Tsatampra Xiros - GnW patch
 - Added Demon of Dream
 - Added Finding Derkeethus
@@ -48,7 +47,6 @@ nav_order: 8
 - Added Hammer and Whetstone
 - Tweaked Hammer and Whetstone, with smithing perks determining usage value
 - Updated Spell Wheel VR to v1.5.11
-- Updated Ostim to v7.4c
 - Updated HIGGS to v1.10.10
 - Updated Weapon Throw VR to v1.4.0
 - Updated Planck to v0.81
