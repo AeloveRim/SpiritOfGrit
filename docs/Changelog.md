@@ -5,6 +5,9 @@ nav_order: 8
 ---
 
 # Changelog
+## Spirit of Grit V2.01
+- Fixed the Bodyslide output
+
 ## Spirit of Grit V2.0
 - Added Physical Collision VR to Optionals
 - Added Immersive Weapon Penetration to Optionals
