@@ -120,7 +120,7 @@ At higher levels, you may have a hard time finding a sufficiently-skilled traine
 
 Eventually, you will also be able to use the Self-Improvement power to train yourself. This can only be done once per day, requires both mastery perks for the skill to be unlocked, costs 1 more TP but costs no gold.
 
-The perk overhaul is [Vokriinator](https://www.nexusmods.com/skyrimspecialedition/mods/26702), although many of the perks have been reworked and rebalanced, with many [new perks](New Perks.html) added and others removed.
+The perk overhaul is [Vokriinator](https://www.nexusmods.com/skyrimspecialedition/mods/26702), although many of the perks have been reworked and rebalanced, with many [new perks](Perk List.html) added and others removed.
 
 ## Crafting and Economy
 You may notice that the only crafting workstations you are able to use from the start are the Tanning Rack and the Smelter. Otherwise, you will need to increase your skills first. Smithing workstations require a smithing skill of 15. Alchemy and Enchanting workstations require their skill at 20.
