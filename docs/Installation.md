@@ -156,6 +156,12 @@ Before starting, you can make choices in the Optional sections of the list, colo
 -  Strafing Nerf : Reduces your speed when going backwards or strafing to the side, making it a bit harder to avoid attacks and run circles around your enemies
 -  Subtitles VR : Allows you to have multiple subtitles displayed at once. Can get a bit janky, but useful when you have a lot of followers.
 - VR Climbing : Will allow you to climb walls, mountains and other obstacles. By default, you must have at least 70 stamina available to climb. Be careful, getting into places you're not supposed to can break some quests !
+- Load Corruption Preventer : **Prevents you from quick saving and from loading while in game** because doing so will cause save corruption in the long run. It's much better to at least go back to the main menu before loading but, as long as you know the risks, this mod is safe to remove at any time to recover the ability to quicksave and load ingame.
+- Auto Sneak and Jump VR : Lets you sneak by physically crouching and jump by physically jumping. The mod contains an ini file that may have to be edited depending on your own height. Disable to return to vanilla sneak behavior.
+- Physical Collision VR : Stops your hands and your weapons from phasing through walls and other physical objects.
+- Immersive Weapon Penetration VR : Adds stabbing physics allowing blades to penetrate enemy bodies and stick inside.
+- Interactive Activators VR : Allows you to physically handle activators such as levers, switches, puzzle pillars and many more rather than just pressing a button. Some people report having trouble getting it to work properly though.
+
 
 ### Block and parry settings
 Pick only one of the options given.
@@ -168,10 +174,11 @@ Pick only one of the options given.
 - Fantasy body presets will allow most NPCs to have any body type preset, including those with impressive proportions. Some NPCs will still have presets specifically assigned to them however.
 
 ### Music replacement
-- "Enable Music Replacement" : Disables vanilla music and replaces it with the music from a music replacer compatible with Personal Music Framework. Two such replacers are provided "Emeratu" and "Soulmancer music merge". Pick only one.
-- "Enable Unique Battle Music" : If enabled along with Enable Music Replacement, will give unique music to some bosses. If enabled without Enable Music Replacement, it will also replace regular combat music with different variants depending on the type of enemy.
+- "Enable Custom Music - Without Vanilla Music" : Disables vanilla music and replaces it with the music from a music replacer compatible with Personal Music Framework. Two such replacers are provided "Emeratu" and "Soulmancer music merge". Pick only one.
+- "Enable Custom Music - Alongside Vanilla Music" : Same as above, but vanilla music will play alongside the custom music
+- "Enable Unique Battle Music" : If enabled along with Enable Custom Music, will give unique music to some bosses. If enabled without Enable Custom Music, it will also replace regular combat music with different variants depending on the type of enemy.
 
-Feel free to use any music replacer instead of Emeratu or Soulmancer. As long as it is compatible with Personalized Music or Personal Music Replacer, it should work with no conflicts at all. You only need the music files, not any plugins that may come with them.
+Feel free to use any music replacer instead of Emeratu or Soulmancer. As long as it is compatible with Personalized Music, it should work with no conflicts at all. You only need the music files, not any plugins that may come with them.
 
 # Mod Setup
 
