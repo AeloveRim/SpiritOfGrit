@@ -5,6 +5,9 @@ nav_order: 8
 ---
 
 # Changelog
+## Spirit of Grit V2.02
+- Force ShadowRes Launcher now actually does what it's supposed to without eating newlines
+
 ## Spirit of Grit V2.01
 - Fixed the Bodyslide output
 
